@@ -29,7 +29,7 @@ This project uses the **Blue Book for Bulldozers** dataset.
 
 The original dataset is not included in this repository because of its size.
 
-The dataset can be obtained from its original source and placed locally before running the notebook.
+The dataset can be obtained from kaggle and placed locally before running the notebook.
 
 The notebook expects the required dataset files to be available locally.
 
